@@ -2,17 +2,17 @@
 
 **Desenvolvedor FullStack | Estudante de Ciência da Computação**
 
-Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco em criar aplicações eficientes e com impacto real. Sou proativo, resiliente e gosto de unir o desenvolvimento de software com a colaboração em equipe. 
+Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco em criar aplicações eficientes e com impacto real[cite: 1]. Sou proativo, resiliente e gosto de unir o desenvolvimento de software com a colaboração em equipe[cite: 1]. 
 
 Atualmente, busco oportunidades para aplicar meus conhecimentos na criação de soluções inovadoras, sempre priorizando a melhoria contínua e a entrega de valor.
 
 ---
 
 ### 🎓 Sobre mim
-- 🏫 Estudante do 2º semestre de **Ciência da Computação** na Unisagrado.
+- 🏫 Estudante do 2º semestre de **Ciência da Computação** na Unisagrado.[cite: 1]
 - 💼 Participante ativo do programa **BarraCred Conecta**, atuando tanto no desenvolvimento de software quanto assumindo responsabilidades de Product Owner (P.O.) na estruturação de projetos.[cite: 1]
 - 💡 Possuo formação técnica em desenvolvimento pela Etec Comendador João Rays e cursos complementares em tecnologias Web.[cite: 1]
-- 🗣️ **Idiomas:** Português (Nativo), Inglês Intermediário Avançado (Certificação TOEIC Bridge - 94/100) e Espanhol (Básico).[cite: 1]
+- 🗣️ **Idiomas:** Português (Nativo), Inglês Avançado (Certificação TOEIC Bridge - 94/100) e Espanhol (Básico).[cite: 1]
 
 ---
 
@@ -54,12 +54,6 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos na criação de 
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-risatti/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://matheusrisatti.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:risattimatheus@mail.com)
-
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusRisatti&show_icons=true&theme=radium" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRisatti&layout=compact&theme=radium" alt="Linguagens Mais Usadas" height="150"/>
-</div>
+- 💼 **LinkedIn:** [linkedin.com/in/matheus-risatti](https://www.linkedin.com/in/matheus-risatti/)
+- 🌐 **Portfólio:** [matheusrisatti.github.io](https://matheusrisatti.github.io/)
+- ✉️ **E-mail:** risattimatheus@gmail.com
