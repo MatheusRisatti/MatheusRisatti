@@ -2,17 +2,17 @@
 
 **Desenvolvedor FullStack | Estudante de Ciência da Computação**
 
-Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco em criar aplicações eficientes e com impacto real[cite: 1]. Sou proativo, resiliente e gosto de unir o desenvolvimento de software com a colaboração em equipe[cite: 1]. 
+Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco em criar aplicações eficientes e com impacto real. Sou proativo, resiliente e gosto de unir o desenvolvimento de software com a colaboração em equipe. 
 
 Atualmente, busco oportunidades para aplicar meus conhecimentos na criação de soluções inovadoras, sempre priorizando a melhoria contínua e a entrega de valor.
 
 ---
 
 ### 🎓 Sobre mim
-- 🏫 Estudante do 2º semestre de **Ciência da Computação** na Unisagrado.[cite: 1]
-- 💼 Participante ativo do programa **BarraCred Conecta**, atuando tanto no desenvolvimento de software quanto assumindo responsabilidades de Product Owner (P.O.) na estruturação de projetos.[cite: 1]
-- 💡 Possuo formação técnica em desenvolvimento pela Etec Comendador João Rays e cursos complementares em tecnologias Web.[cite: 1]
-- 🗣️ **Idiomas:** Português (Nativo), Inglês Avançado (Certificação TOEIC Bridge - 94/100) e Espanhol (Básico).[cite: 1]
+- 🏫 Estudante do 2º semestre de **Ciência da Computação** na Unisagrado.
+- 💼 Participante ativo do programa **BarraCred Conecta**, atuando tanto no desenvolvimento de software quanto assumindo responsabilidades de Product Owner (P.O.) na estruturação de projetos.
+- 💡 Possuo formação técnica em desenvolvimento pela Etec Comendador João Rays e cursos complementares em tecnologias Web.
+- 🗣️ **Idiomas:** Português (Nativo), Inglês Avançado (Certificação TOEIC Bridge - 94/100) e Espanhol (Básico).
 
 ---
 
